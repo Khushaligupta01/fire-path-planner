@@ -84,7 +84,7 @@ Python 3.9+
 OpenAI API Key (optional for AI insights)
 ⚙️ Installation
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/fire-path-planner.git
+git clone https://github.com/khushaligupta01/fire-path-planner.git
 
 # 2. Navigate into the project
 cd fire-path-planner
